@@ -13,7 +13,8 @@ legend {
     font-weight: bold;
 }
 
-.btn, .btn:hover {
+.btn,
+.btn:hover {
     background-color: darkgreen;
 }
 
@@ -22,5 +23,6 @@ legend {
 }
 
 label.error {
-    /* Add a style here for your error messages */
+    color: red;
+    font-size: smaller;
 }
